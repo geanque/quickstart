@@ -16,5 +16,23 @@
         "quickstartb08fda75": {}
       }
     }
+  },
+  "testone": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quickstart-testone-134833-authRole",
+      "UnauthRoleArn": "arn:aws:iam::410252720983:role/amplify-quickstart-testone-134833-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::410252720983:role/amplify-quickstart-testone-134833-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-quickstart-testone-134833-deployment",
+      "UnauthRoleName": "amplify-quickstart-testone-134833-unauthRole",
+      "StackName": "amplify-quickstart-testone-134833",
+      "StackId": "arn:aws:cloudformation:us-east-1:410252720983:stack/amplify-quickstart-testone-134833/c6eb7340-02b8-11ec-b8f9-12f8925a37c4",
+      "AmplifyAppId": "d3fvk9lo7zjtix"
+    },
+    "categories": {
+      "auth": {
+        "quickstartb08fda75": {}
+      }
+    }
   }
 }
